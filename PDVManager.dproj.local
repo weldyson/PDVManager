@@ -5,11 +5,14 @@
     <Transaction>2025/10/25 16:43:32.000.606,=C:\Users\weldy\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2025/10/25 16:54:09.000.245,=C:\Users\weldy\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2025/10/25 17:04:04.000.605,=C:\Users\weldy\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2025/10/25 17:04:29.000.678,C:\Users\weldy\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\PROJETOS\DELPHI\PDVManager\uFrmPrincipal.pas</Transaction>
     <Transaction>2025/10/25 17:04:29.000.678,C:\Users\weldy\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\PROJETOS\DELPHI\PDVManager\uFrmPrincipal.dfm</Transaction>
+    <Transaction>2025/10/25 17:04:29.000.678,C:\Users\weldy\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\PROJETOS\DELPHI\PDVManager\uFrmPrincipal.pas</Transaction>
     <Transaction>2025/10/25 17:04:53.000.137,C:\Users\weldy\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\PROJETOS\DELPHI\PDVManager\PDVManager.dproj</Transaction>
     <Transaction>2025/10/25 23:32:27.000.774,=C:\Users\weldy\Documents\PROJETOS\DELPHI\PDVManager\PDVManager\Unit1.pas</Transaction>
     <Transaction>2025/10/25 23:33:20.000.561,C:\Users\weldy\Documents\PROJETOS\DELPHI\PDVManager\PDVManager\Unit1.pas=C:\Users\weldy\Documents\PROJETOS\DELPHI\PDVManager\PDVManager\DataModule\uDTMConexao.pas</Transaction>
     <Transaction>2025/10/25 23:33:20.000.561,C:\Users\weldy\Documents\PROJETOS\DELPHI\PDVManager\PDVManager\Unit1.dfm=C:\Users\weldy\Documents\PROJETOS\DELPHI\PDVManager\PDVManager\DataModule\uDTMConexao.dfm</Transaction>
+    <Transaction>2025/10/26 11:21:48.819,=D:\PROJETOS\DELPHI\PDVManager\PDVManager\Unit1.pas</Transaction>
+    <Transaction>2025/10/26 11:22:26.367,D:\PROJETOS\DELPHI\PDVManager\PDVManager\Heranca\uTelaHeranca.dfm=D:\PROJETOS\DELPHI\PDVManager\PDVManager\Unit1.dfm</Transaction>
+    <Transaction>2025/10/26 11:22:26.367,D:\PROJETOS\DELPHI\PDVManager\PDVManager\Heranca\uTelaHeranca.pas=D:\PROJETOS\DELPHI\PDVManager\PDVManager\Unit1.pas</Transaction>
   </Transactions>
 </BorlandProject>
