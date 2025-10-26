@@ -3,8 +3,9 @@ unit uFrmPrincipal;
 interface
 
 uses
-  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
-  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.Menus;
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants,
+  System.Classes, Vcl.Graphics, Vcl.Controls, Vcl.Forms, Vcl.Dialogs,
+  uDTMConexao, Vcl.Menus;
 
 type
   TfrmPrincipal = class(TForm)
@@ -26,6 +27,7 @@ type
     PRODUTOS4: TMenuItem;
     VENDASPORDATA1: TMenuItem;
     procedure mnuFecharClick(Sender: TObject);
+    procedure FormCreate(Sender: TObject);
   private
     { Private declarations }
   public
@@ -39,6 +41,13 @@ implementation
 
 {$R *.dfm}
 
+procedure TfrmPrincipal.FormCreate(Sender: TObject);
+begin
+  dtmPrincipal := TdtmPrincipal.Create(Self);
+  dtmPrincipal.ConexaoDB.SQLHourGlass := True;
+  dtmPrincipal.ConexaoDB.Connected := True;
+end;
+
 procedure TfrmPrincipal.mnuFecharClick(Sender: TObject);
 begin
   //Close;
@@ -46,3 +55,4 @@ begin
 end;
 
 end.
+

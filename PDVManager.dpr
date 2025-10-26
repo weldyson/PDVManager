@@ -2,7 +2,8 @@ program PDVManager;
 
 uses
   Vcl.Forms,
-  uFrmPrincipal in 'uFrmPrincipal.pas' {frmPrincipal};
+  uFrmPrincipal in 'uFrmPrincipal.pas' {frmPrincipal},
+  uDTMConexao in 'DataModule\uDTMConexao.pas' {dtmPrincipal: TDataModule};
 
 {$R *.res}
 
