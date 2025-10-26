@@ -1,0 +1,36 @@
+# Delphi
+*.dcu
+*.exe
+*.dll
+*.bpl
+*.dcp
+*.drc
+*.map
+*.dres
+*.rsm
+*.tds
+*.dsk
+*.~*
+__history/
+__recovery/
+
+# Pastas de compilação
+Win32/
+Win64/
+Debug/
+Release/
+
+# Arquivos temporários
+*.local
+*.identcache
+*.projdata
+*.stat
+*.dproj.local
+
+# Banco de dados local
+*.mdb
+*.accdb
+*.ldb
+
+# Logs
+*.log
